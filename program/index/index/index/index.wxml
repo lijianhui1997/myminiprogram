@@ -1,0 +1,39 @@
+<view class='whole'>
+    <image class='img1' src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559116210931&di=b811126cf1c7b24f2e88edb305db1561&imgtype=0&src=http%3A%2F%2Fwww.51yuansu.com%2Fpic%2Fcover%2F00%2F19%2F10%2F57b66c27ea9b3_610.jpg'></image>
+    <view class='top'>
+        <image class='sleep' src='/image/text1.png'></image>
+        <view class='c'>
+
+            <picker class='deta' mode="date" value="{{date}}" start="2015-09-01" end="2017-09-01" bindchange="bindDateChange">
+
+            <view>
+
+                <view id="time">{{newTime}}</view>
+                <view id='data'>{{newData}}</view>
+            </view>
+
+            </picker>
+        </view>
+    </view>
+    <view class='intro'>
+        
+        <view class='type'>
+            <button class='btn' bindtap='goIndex'>安静轻柔</button>
+        </view>
+        <view class='type'>
+            <button class='btn' bindtap='goSmooth'>舒缓自由</button>
+        </view>
+        <view class='type'>
+            <button class='btn' bindtap='goCure'>治愈温暖</button>
+        </view>
+        <view class='type'>
+            <button class='btn' bindtap='goHappiness'>幸福烂漫</button>
+        </view>
+        <view class='type'>
+            <button class='btn' bindtap='goRelax'>放松轻快</button>
+        </view>
+        <view class='type'>
+            <button class='btn' bindtap='goFresh'>清新小调</button>
+        </view>
+    </view>
+</view>

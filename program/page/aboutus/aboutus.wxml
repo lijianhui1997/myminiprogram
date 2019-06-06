@@ -1,0 +1,14 @@
+<!--page/aboutus/aboutus.wxml-->
+<view class='info'>
+    <image class='img' src='/image/back1.gif'></image>
+    <view class='contain'>
+        <view class='top'>
+            <text class='text1'>轻觉</text>
+        </view>
+        <view class='center'>
+            <text class='text2'>
+超人气睡眠辅助小程序,柴米油盐酱醋茶团队专业出品，值得你选择。海量白噪音、催眠曲、专业人声，营造舒适入睡氛围。助眠外，轻觉也是放松身心、缓解压力及提供工作学习效率的好帮手。
+</text>
+        </view>
+    </view>
+</view>

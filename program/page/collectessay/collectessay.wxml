@@ -1,0 +1,28 @@
+<!--page/collectessay/collectessay.wxml-->
+<view class='info'  wx:key="*this" wx:for="{{array}}">
+    <view class='out'>
+        <view class='top'>
+            <text class='title'>{{item.title}}\n</text>
+            <image src='/image/star1.png' bindtap='shoucang'></image>
+        </view>
+        <view class='container'>
+            <text>
+            {{item.content}}
+            </text>
+        </view>
+    </view>
+
+    <!-- <view class='out'>
+        <view class='top'>
+            <text class='title'>失眠表现失眠表现失眠表现失眠表现\n</text>
+            <image src='/image/star.png'></image>
+        </view>
+        <view class='container'>
+            <text>入睡困难、睡眠浅、多梦、易醒。通常这部分女性到晚间虽然躺在床上半天了，但脑海中还不停地思考着各种工作问题，无法安然入睡，即便睡着了，梦中也会浮现各种影像，第二天起床晕晕沉沉的，仿佛腾云驾雾一般。
+            </text>
+        </view>
+    </view> -->
+
+    
+</view>
+

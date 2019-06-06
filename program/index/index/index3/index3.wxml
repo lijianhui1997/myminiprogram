@@ -1,0 +1,19 @@
+<!--index/index3/index3.wxml-->
+<view class='info'>
+   <view class='top'>
+        <image src='http://www.pptbz.com/d/file/p/201708/00bc139590d735f14dbbea298911d686.png' class='top_back'></image>
+        <view class='top_container'>
+            <text class='text' >立即登陆\n</text>
+        </view>
+        
+   </view>
+   
+   <view class='bottom1'>
+        <view class='btn2' bindtap='goIndex1'>我收藏的文章 ></view>
+   </view>
+
+   <view class='bottom2'>
+        <view class='btn2' id='btn1' bindtap='goIndex2'>问题反馈 >\n</view>
+        <view class='btn2' bindtap='goIndex3'>关于我们 ></view>
+   </view>
+</view>

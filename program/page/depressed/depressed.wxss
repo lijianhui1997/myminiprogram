@@ -1,0 +1,30 @@
+/* page/depressed/depressed.wxss */
+.info{
+    margin:0px 25px 25px 25px;
+}
+.out{
+    width: 100%;
+    padding-bottom: 20px;
+    margin: 20px 0 20px 0;
+}
+.title{
+    margin-top: 25px;
+    color: white;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background-color: rgb(112, 134, 161);
+    box-shadow: 5px 5px 5px rgb(58, 75, 95);
+}
+.container{
+    font-size: 16px;
+    margin-top: 15px;
+    text-indent: 2em;
+   /*  border: 1px solid rgb(58, 75, 95); */
+    padding: 10px;
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 2px 2px 20px rgba(0,0,0,0.06);
+    font-family: '华文新魏';
+}

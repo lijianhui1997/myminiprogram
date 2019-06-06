@@ -1,0 +1,38 @@
+<!--page/bad/bad.wxml-->
+<view class='info'>
+    <view class='out'>
+        <view class='title'><text>失眠表现\n</text></view>
+        <view class='container'>
+            <text>入睡困难、多噩梦、醒后神智懵懂不清。
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text>失眠程度\n</text></view>
+        <view class='container'>
+            <text>轻度(失眠1-3天)
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text>失眠原因\n</text></view>
+        <view class='container'>
+            <text>咖啡、酒精、尼古丁是直接导致失眠的3大罪魁祸首。现在越来越多的女性白天工作时都习惯喝茶、咖啡，用餐时饮用可乐、巧克力。这些都含有咖啡因的成分，刺激神经系统，使肾上腺素分泌旺盛，加上长达12小时的作用时间，白天喝多了，晚上自然就睡不着了。而香烟中的尼古丁在使血压上升的同时也刺激到了神经系统，严重妨碍了睡眠时的呼吸，吸烟的女性会感到睡觉比较轻就是这个道理。酒精看起来能使人醉倒，但也能造成时睡时醒，而且醒后觉得身心疲惫。
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text> 修补方案\n</text></view>
+        <view class='container'>
+            <text>1.尽里避免与3大失眠因素”正面”接触，戒烟、戒酒、严格控制咖啡因的摄入，尤其是下午2点以后。
+
+    2.晚饭后不要做过分兴奋的事情，如蹦迪。迪斯科的音乐节奏快、且属于全身运动，所以回家后容易过度亢奋而导致失眠。
+
+            </text>
+        </view>
+    </view>
+    
+</view>

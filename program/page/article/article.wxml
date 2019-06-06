@@ -1,0 +1,30 @@
+<!--page/article/article.wxml-->
+<view class='info' >
+    <view class='out'  wx:key="id" wx:for="{{array}}" wx:key="{{index}}" wx:for-index="index">
+        <view class='top'>
+            <text class='title'>{{item.title}}\n</text>
+            <image src="{{ item.flag ? selectedIconPath : iconPath}}"  bindtap='shoucang' data-id="{{index}}"></image>
+            <!-- 需要实现不一块变化 -->
+        </view>
+        <view class='container'>
+            <text>
+            {{item.content}}
+            </text>
+        </view>
+    </view>
+
+    <!-- <view class='out'>
+        <view class='top'>
+            <text class='title'>零零</text>
+            <image src='{{imgUrl}}' bindtap='shoucang'></image>
+        </view>
+        <view class='container'>
+            <text>急急急急急急
+            </text>
+        </view>
+    </view> -->
+
+    
+    
+</view>
+

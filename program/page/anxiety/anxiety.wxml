@@ -1,0 +1,39 @@
+<!--page/anxiety/anxiety.wxml-->
+<view class='info'>
+    <view class='out'>
+        <view class='title'><text>失眠表现\n</text></view>
+        <view class='container'>
+            <text>焦躁、恐慌、夜间惊醒后无法再次入睡。
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text>失眠程度\n</text></view>
+        <view class='container'>
+            <text>重度(失眠3个月以上) 
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text>失眠原因\n</text></view>
+        <view class='container'>
+            <text>这部分女性正处于不断提升事业的人生阶段，而婚姻、家庭、人际关系无一不牵动情绪，因比很容易影响神经系统导致失眠。
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text> 修补方案\n</text></view>
+        <view class='container'>
+            <text>1.暗示法:身心放松，平躺在床上，并暗示自己:我的胳膊放松了，腿放松了，头放松了，我就要睡着了。
+
+        2.运动法:以轻松的散步、舒缓的瑜珈功促进新陈代谢，调节情绪。
+
+        3.安神法:避免过度刺激，如晚上不要看惊险、凶杀的影片，还要注意不要把工作的烦恼带回家。
+            </text>
+        </view>
+    </view>
+    
+</view>

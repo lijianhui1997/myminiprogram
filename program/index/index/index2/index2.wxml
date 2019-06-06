@@ -1,0 +1,10 @@
+<view class='whole'>
+    <image class='img1' src='http://ww2.sinaimg.cn/large/85cc5ccbgy1ffnj0vw6wcg20ci0irtii.jpg'></image>
+    <view class="intro">
+        <button class='btn' bindtap='goIndex1'>压力型失眠>></button>
+        <button class='btn' bindtap='goIndex2'>不良嗜好型失眠 >></button>
+        <button class='btn' bindtap='goIndex3'>焦虑型失眠 >></button>
+        <button class='btn' bindtap='goIndex4'>抑郁型失眠 >></button>
+        <button class='btn' bindtap='goIndex5'>睡眠文章 >></button>
+    </view>
+</view>

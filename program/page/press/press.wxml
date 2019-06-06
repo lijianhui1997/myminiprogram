@@ -1,0 +1,41 @@
+<!--page/press/press.wxml-->
+<view class='info'>
+    <view class='out'>
+        <view class='title'><text>失眠表现\n</text></view>
+        <view class='container'>
+            <text>入睡困难、睡眠浅、多梦、易醒。通常这部分女性到晚间虽然躺在床上半天了，但脑海中还不停地思考着各种工作问题，无法安然入睡，即便睡着了，梦中也会浮现各种影像，第二天起床晕晕沉沉的，仿佛腾云驾雾一般。
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text>失眠程度\n</text></view>
+        <view class='container'>
+            <text>中度（连续失眠10天-30天）
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text>失眠原因\n</text></view>
+        <view class='container'>
+            <text>这部分人身处优胜劣汰的环境中，所以工作节奏快、压力大、作息时间不固定、精神状态过度紧张、情绪不稳定等导致失眠的直接因素。往往是一有大任务临头，就睡不着觉了。
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text> 修补方案\n</text></view>
+        <view class='container'>
+            <text>1.香熏法:在卧室点上一盏香薰灯，淡淡的薰衣草香味会令神经逐渐地放松下来，不知不觉中就进入了梦乡。
+
+        2.按摩法:感到自己相当疲惫，不要急于入睡，给自己一一个美容按摩。在美容师轻盈的手指下，你的头脑会随着脸部肌肉放松下来。一般两个小时的按摩比倒头就睡更能放松。
+
+        3.惟眠曲:听听专门的安眠乐曲，比如舒曼的小夜曲、绿岛小夜曲，都可以帮你入睡一音像店里有 催眠乐曲、放松乐曲、安神乐曲的专集。
+
+        5.运动:最好每周做适当的体育运动，比如每周打两次羽毛球，每次2个小时，或者散步30分钟，每周3次，这样可以增加脑部的血氧供应，失眠自然就溜之大吉了。
+            </text>
+        </view>
+    </view>
+    
+</view>

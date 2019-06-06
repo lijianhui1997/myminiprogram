@@ -1,0 +1,109 @@
+<view class='info'>
+    <!-- 上边背景图 -->
+    <view class='top'>
+        <image class='top_img' src='http://img.mp.itc.cn/upload/20170304/93c051c4ef324ea2b3a71a25b4cb58ef_th.jpg'></image>
+        <view class='txt'>
+            <text class='text'>Light sleep</text>
+        </view>
+    </view>
+
+    <!-- 列表 -->
+
+    <view class='list'>
+        <view class='left'>
+            <image class='img' src='https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4132721658,1274613312&fm=26&gp=0.jpg'></image>
+        </view>
+        <view class='right'>
+            <view class='right_top'>
+                <text>薄荷</text>
+            </view>
+            <view class='right_bottom'>
+                <text>放松心情帮助睡眠，大量食用会导致失眠，小剂量食用有助于睡眠。</text>
+            </view>
+        </view>
+    </view>
+
+    <view class='list'>
+        <view class='left'>
+            <image class='img' src='https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3519754869,3164949531&fm=26&gp=0.jpg'></image>
+        </view>
+        <view class='right'>
+            <view class='right_top'>
+                <text>睡眠枕头</text>
+            </view>
+            <view class='right_bottom'>
+                <text>头部按摩、颈部牵引，为用户带来舒适的睡眠体验。</text>
+            </view>
+        </view>
+    </view>
+
+    <view class='list'>
+        <view class='left'>
+            <image class='img' src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559647871243&di=525ba49b46b00d1bc95abf424436c4c4&imgtype=0&src=http%3A%2F%2Fimg011.hc360.cn%2Fm3%2FM06%2F42%2F17%2FwKhQ51TF6kqEQrE8AAAAAIRCO8I392.jpg'></image>
+        </view>
+        <view class='right'>
+            <view class='right_top'>
+                <text>睡梦香</text>
+            </view>
+            <view class='right_bottom'>
+                <text>改善睡眠质量，改善睡眠质量，改善睡眠质量，改善睡眠质量。</text>
+            </view>
+        </view>
+    </view>
+
+    <view class='list'>
+        <view class='left'>
+            <image class='img' src='http://img1.imgtn.bdimg.com/it/u=553299181,2002874852&fm=214&gp=0.jpg'></image>
+        </view>
+        <view class='right'>
+            <view class='right_top'>
+                <text>眠</text>
+            </view>
+            <view class='right_bottom'>
+                <text>有卡夫卡的荒诞，又有爱伦·坡的惊悚，读后给人强烈震撼。</text>
+            </view>
+        </view>
+    </view>
+
+    <view class='list'>
+        <view class='left'>
+            <image class='img' src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560305971&di=75f7c81eee358a4d15d890d210cd740d&imgtype=jpg&er=1&src=http%3A%2F%2Fpic4.58cdn.com.cn%2Fzhuanzh%2Fn_v1bkuyfvmbk2tvpkre4ilq_368_278.jpg'></image>
+        </view>
+        <view class='right'>
+            <view class='right_top'>
+                <text>褪黑素</text>
+            </view>
+            <view class='right_bottom'>
+                <text>延缓衰老，改善睡眠质量，睡眠中觉醒次数减少，深睡阶段延长。</text>
+            </view>
+        </view>
+    </view>
+    <view class='list'>
+        <view class='left'>
+            <image class='img' src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560306272&di=85c2f6fbd1bb23f3f596874cd6325822&imgtype=jpg&er=1&src=http%3A%2F%2Fzy.yaozh.com%2Finstruct%2Fimagesout%2F1ce13a869a141bcf07ce064d93257d745.jpg'></image>
+        </view>
+        <view class='right'>
+            <view class='right_top'>
+                <text>谷维素</text>
+            </view>
+            <view class='right_bottom'>
+                <text>稳定情绪、减轻焦虑及紧张状态。药物使用必须在医生指导下进行。</text>
+            </view>
+        </view>
+    </view>
+
+    <view class='list'>
+        <view class='left'>
+            <image class='img' src='https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=303510494,2756298346&fm=15&gp=0.jpg'></image>
+        </view>
+        <view class='right'>
+            <view class='right_top'>
+                <text>琥珀茶</text>
+            </view>
+            <view class='right_bottom'>
+                <text>治疗烦躁不安，失眠多梦等症状，还有降脂瘦身，美容养颜等功效。</text>
+            </view>
+        </view>
+    </view>
+ 
+ </view>

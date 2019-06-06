@@ -1,0 +1,55 @@
+<view id="total">
+<view class="question">
+  <label class='item-left color-333 mg-rt10' for='sex'>1.您的性别：</label>
+      <radio-group class="item-right radio-group" bindchange="changeSex">
+            <label class="radio" wx:for="{{items}}">
+                <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.name}}
+            </label>
+      </radio-group>
+</view>
+<view class="question">
+  <label class='item-left color-333 mg-rt10' for='sex'>2.您的年龄段：</label>
+      <radio-group class="item-right radio-group" bindchange="changeSex">
+            <label class="radio" wx:for="{{ages}}">
+                <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.name}}
+            </label>
+      </radio-group>
+</view>
+<view class="question">
+  <label class='item-left color-333 mg-rt10' for='sex'>3.您工作日通常的睡眠时间是：</label>
+      <radio-group class="item-right radio-group" bindchange="changeSex">
+            <label class="radio" wx:for="{{time}}">
+                <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.name}}
+            </label>
+      </radio-group>
+</view>
+<view class="question">
+  <label class='item-left color-333 mg-rt10' for='sex'>4.您是否曾经因为睡眠不够影响学习或工作：</label>
+      <radio-group class="item-right radio-group" bindchange="changeSex">
+            <label class="radio" wx:for="{{impact}}">
+                <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.name}}
+            </label>
+      </radio-group>
+</view>
+<view class="question">
+  <label class='item-left color-333 mg-rt10' for='sex'>5.对于睡眠环境，您比较在乎什么：</label>
+      <radio-group class="item-right radio-group" bindchange="changeSex">
+            <label class="radio" wx:for="{{environment}}">
+                <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.name}}
+            </label>
+      </radio-group>
+</view>
+<view class="question">
+  <label class='item-left color-333 mg-rt10' for='sex'>6.您一般通过什么方式调整睡眠：</label>
+      <radio-group class="item-right radio-group" bindchange="changeSex">
+            <label class="radio" wx:for="{{way}}">
+                <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.name}}
+            </label>
+      </radio-group>
+</view>
+<view id="submit">
+  <form bindsubmit='goIndex'>
+    <button form-type='submit'>提交</button>
+  </form>
+</view>
+</view>

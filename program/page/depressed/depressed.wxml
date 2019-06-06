@@ -1,0 +1,36 @@
+<!--page/depressed/depressed.wxml-->
+<view class='info'>
+    <view class='out'>
+        <view class='title'><text>失眠表现\n</text></view>
+        <view class='container'>
+            <text>表情冷漠、不愿意与人交往，缺乏自信，夜里2-3点醒后难以入睡，心绪繁杂，第二天醒来后有头晕等身体不适症状。
+    失眠原因:内向的性格使得他们日常不善于表达，如遇到问题,容易产生低落、抑郁的情绪。
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text>失眠程度\n</text></view>
+        <view class='container'>
+            <text>重度(失眠3个月以上)</text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text>失眠原因\n</text></view>
+        <view class='container'>
+            <text>内向的性格使得她们日常不善于表达，如遇到问题，容易产生低沉、抑郁的情绪。
+            </text>
+        </view>
+    </view>
+
+    <view class='out'>
+        <view class='title'><text> 修补方案\n</text></view>
+        <view class='container'>
+            <text>加强人际交往，多参加集体活劫。最好请麦科医生珍治。需要补充说明的是，由于焦虑型失眠和抑郁型失眠的人通常需要做长期的努カオ能改善睡眠，所以需要麦科医生(心理医生)针対自己的作息、身体丶エ作情况做一个全面的解决方案。
+        対于长期依赖药物入睡的人来说，须及肘请教医生，改变作息习惯。另外，有的减肥药物由于作用于神经，所以也严重影响了睡眠质量，建议不要服用。
+            </text>
+        </view>
+    </view>
+    
+</view>
