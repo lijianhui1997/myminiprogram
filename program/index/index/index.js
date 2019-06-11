@@ -1,7 +1,7 @@
 var formatTime= require('../../utils/util.js').formatTime;
 Page({
-  pageLifetimes: {
-    show() {
+  
+    onShow:function() {
       if (typeof this.getTabBar === 'function' &&
         this.getTabBar()) {
         this.getTabBar().setData({
@@ -10,7 +10,7 @@ Page({
       }
     },
    
-  },
+
     data: {
         //date: ""
         newTime: ''

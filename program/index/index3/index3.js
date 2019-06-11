@@ -1,17 +1,16 @@
 // index/index3/index3.js
 const app = getApp()
 Page({
-    pageLifetimes: {
-        show() {
+    
+        onShow:function() {
             if (typeof this.getTabBar === 'function' &&
                 this.getTabBar()) {
                 this.getTabBar().setData({
-                    selected: 2
+                    selected: 3
                 })
             }
         },
 
-    },
   data: {
     motto: wx.getStorageSync('nick'),
     userInfo: {},

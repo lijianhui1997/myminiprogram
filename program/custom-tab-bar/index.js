@@ -2,8 +2,9 @@ Component({
   data: {
     color: "#7A7E83",
     selectedColor: "#B0C4DE",
+    selected:0,
     list: [{
-      selected:0,
+      // selected:0,
       pagePath: "/index/index/index",
       iconPath: "/image/music.png",
       selectedIconPath: "/image/music1.png",
@@ -35,6 +36,8 @@ Component({
       this.setData({
         selected: data.index
       })
+      // console.log(this.data.selected);
+
     }
   }
 })

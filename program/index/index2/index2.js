@@ -1,14 +1,14 @@
 Page({
-  pageLifetimes: {
-    show() {
+  
+    onShow:function() {
       if (typeof this.getTabBar === 'function' &&
         this.getTabBar()) {
         this.getTabBar().setData({
           selected: 1
         })
       }
-    }
-  },
+    },
+  
     goIndex1: function () {
         wx.navigateTo({
             url: '/page/press/press',
