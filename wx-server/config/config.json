@@ -1,0 +1,10 @@
+{
+    "host":"localhost",
+    "user":"root",
+    "password":"<HSH>00y",
+    "database":"light_sleep",
+    "connectionLimit":10,
+    "supporBigNumbers":true
+
+                
+}
